@@ -3,6 +3,7 @@ import imageio
 import scipy.ndimage
 import cv2
 
+
 img ="photo.jpg"
 
 def grayscale(rgb):
